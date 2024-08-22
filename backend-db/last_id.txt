@@ -1,0 +1,1 @@
+[{"topic":"codfw.mediawiki.recentchange","partition":0,"offset":-1},{"topic":"eqiad.mediawiki.recentchange","partition":0,"timestamp":1724358942001}]

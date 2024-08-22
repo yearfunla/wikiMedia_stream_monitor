@@ -1,0 +1,372 @@
+{
+    "streams": [
+        {
+            "$schema": "/mediawiki/recentchange/1.0.0",
+            "meta": {
+                "uri": "https://www.wikidata.org/wiki/Q40399341",
+                "request_id": "57990809-567a-4e62-b9c8-668a27ae653f",
+                "id": "bdd2239d-c09c-460b-850a-7b8d05e5136b",
+                "dt": "2024-08-22T04:04:30Z",
+                "domain": "www.wikidata.org",
+                "stream": "mediawiki.recentchange",
+                "topic": "eqiad.mediawiki.recentchange",
+                "partition": 0,
+                "offset": 5356063040
+            },
+            "id": 2299808780,
+            "type": "edit",
+            "namespace": 0,
+            "title": "Q40399341",
+            "title_url": "https://www.wikidata.org/wiki/Q40399341",
+            "comment": "/* wbsetdescription-add:1|uk */ дослідник, [[:toollabs:quickstatements/#/batch/236566|batch #236566]]",
+            "timestamp": 1724299470,
+            "user": "Renamerr",
+            "bot": false,
+            "notify_url": "https://www.wikidata.org/w/index.php?diff=2233508389&oldid=2161911000&rcid=2299808780",
+            "minor": false,
+            "patrolled": true,
+            "length": {
+                "old": 8516,
+                "new": 8594
+            },
+            "revision": {
+                "old": 2161911000,
+                "new": 2233508389
+            },
+            "server_url": "https://www.wikidata.org",
+            "server_name": "www.wikidata.org",
+            "server_script_path": "/w",
+            "wiki": "wikidatawiki",
+            "parsedcomment": "‎<span dir=\"auto\"><span class=\"autocomment\">Додано опис [uk]: </span></span> дослідник, <a href=\"https://iw.toolforge.org/quickstatements/#.2Fbatch.2F236566\" class=\"extiw\" title=\"toollabs:quickstatements/\">batch #236566</a>"
+        },
+        {
+            "$schema": "/mediawiki/recentchange/1.0.0",
+            "meta": {
+                "uri": "https://www.wikidata.org/wiki/Q54042562",
+                "request_id": "916730e6-c019-4975-85aa-966a29762f7e",
+                "id": "a1ddcc12-4235-49e3-84bd-4cb08b50f94f",
+                "dt": "2024-08-22T04:04:30Z",
+                "domain": "www.wikidata.org",
+                "stream": "mediawiki.recentchange",
+                "topic": "eqiad.mediawiki.recentchange",
+                "partition": 0,
+                "offset": 5356063041
+            },
+            "id": 2299808782,
+            "type": "edit",
+            "namespace": 0,
+            "title": "Q54042562",
+            "title_url": "https://www.wikidata.org/wiki/Q54042562",
+            "comment": "/* wbsetreference-add:2| */ [[Property:P2860]]: [[Q48348394]], Modify PubMed ID: 7690595 citation data from NCBI, Europe PMC and CrossRef",
+            "timestamp": 1724299470,
+            "user": "Cewbot",
+            "bot": true,
+            "notify_url": "https://www.wikidata.org/w/index.php?diff=2233508390&oldid=2233508359&rcid=2299808782",
+            "minor": false,
+            "patrolled": true,
+            "length": {
+                "old": 56755,
+                "new": 58127
+            },
+            "revision": {
+                "old": 2233508359,
+                "new": 2233508390
+            },
+            "server_url": "https://www.wikidata.org",
+            "server_name": "www.wikidata.org",
+            "server_script_path": "/w",
+            "wiki": "wikidatawiki",
+            "parsedcomment": "‎<span dir=\"auto\"><span class=\"autocomment\">Added reference to claim: </span></span> <a href=\"/wiki/Property:P2860\" title=\"‎cites work‎ | ‎citation from one creative or scholarly work to another‎\"><span class=\"wb-itemlink\"><span class=\"wb-itemlink-label\" lang=\"en\" dir=\"ltr\">cites work</span> <span class=\"wb-itemlink-id\">(P2860)</span></span></a>: <a href=\"/wiki/Q48348394\" title=\"‎Sequences of the genes and polypeptide precursors for two bovine protease inhibitors‎ | ‎scientific article published in March 1987‎\"><span class=\"wb-itemlink\"><span class=\"wb-itemlink-label\" lang=\"en\" dir=\"ltr\">Sequences of the genes and polypeptide precursors for two bovine protease inhibitors</span> <span class=\"wb-itemlink-id\">(Q48348394)</span></span></a>, Modify PubMed ID: 7690595 citation data from NCBI, Europe PMC and CrossRef"
+        },
+        {
+            "$schema": "/mediawiki/recentchange/1.0.0",
+            "meta": {
+                "uri": "https://www.wikidata.org/wiki/Q58946725",
+                "request_id": "f2b84aec-ce98-4edc-9f94-b2140405a666",
+                "id": "9cacb8c6-0b04-4d22-9010-36415938792d",
+                "dt": "2024-08-22T04:04:30Z",
+                "domain": "www.wikidata.org",
+                "stream": "mediawiki.recentchange",
+                "topic": "eqiad.mediawiki.recentchange",
+                "partition": 0,
+                "offset": 5356063042
+            },
+            "id": 2299808784,
+            "type": "edit",
+            "namespace": 0,
+            "title": "Q58946725",
+            "title_url": "https://www.wikidata.org/wiki/Q58946725",
+            "comment": "/* wbeditentity-update-languages-short:0||es */ BOT - Adding descriptions (1 languages): es",
+            "timestamp": 1724299470,
+            "user": "Emijrpbot",
+            "bot": true,
+            "notify_url": "https://www.wikidata.org/w/index.php?diff=2233508394&oldid=2222783148&rcid=2299808784",
+            "minor": false,
+            "patrolled": true,
+            "length": {
+                "old": 5088,
+                "new": 5186
+            },
+            "revision": {
+                "old": 2222783148,
+                "new": 2233508394
+            },
+            "server_url": "https://www.wikidata.org",
+            "server_name": "www.wikidata.org",
+            "server_script_path": "/w",
+            "wiki": "wikidatawiki",
+            "parsedcomment": "‎<span dir=\"auto\"><span class=\"autocomment\">Changed label, description and/or aliases in es: </span></span> BOT - Adding descriptions (1 languages): es"
+        },
+        {
+            "$schema": "/mediawiki/recentchange/1.0.0",
+            "meta": {
+                "uri": "https://www.wikidata.org/wiki/Q115087543",
+                "request_id": "dfbd6a44-5a58-40dd-a130-964332fbaa5f",
+                "id": "98060214-9419-41d2-b008-c6635b0b796e",
+                "dt": "2024-08-22T04:04:30Z",
+                "domain": "www.wikidata.org",
+                "stream": "mediawiki.recentchange",
+                "topic": "eqiad.mediawiki.recentchange",
+                "partition": 0,
+                "offset": 5356063043
+            },
+            "id": 2299808783,
+            "type": "edit",
+            "namespace": 0,
+            "title": "Q115087543",
+            "title_url": "https://www.wikidata.org/wiki/Q115087543",
+            "comment": "/* wbsetlabel-add:1|en */ Sungai Pinyawan, [[:toollabs:quickstatements/#/batch/236576|batch #236576]]",
+            "timestamp": 1724299470,
+            "user": "Quesotiotyo",
+            "bot": false,
+            "notify_url": "https://www.wikidata.org/w/index.php?diff=2233508388&oldid=2233309864&rcid=2299808783",
+            "minor": false,
+            "patrolled": true,
+            "length": {
+                "old": 2357,
+                "new": 2431
+            },
+            "revision": {
+                "old": 2233309864,
+                "new": 2233508388
+            },
+            "server_url": "https://www.wikidata.org",
+            "server_name": "www.wikidata.org",
+            "server_script_path": "/w",
+            "wiki": "wikidatawiki",
+            "parsedcomment": "‎<span dir=\"auto\"><span class=\"autocomment\">Added [en] label: </span></span> Sungai Pinyawan, <a href=\"https://iw.toolforge.org/quickstatements/#.2Fbatch.2F236576\" class=\"extiw\" title=\"toollabs:quickstatements/\">batch #236576</a>"
+        },
+        {
+            "$schema": "/mediawiki/recentchange/1.0.0",
+            "meta": {
+                "uri": "https://www.wikidata.org/wiki/Q59548794",
+                "request_id": "ea678e7c-7489-4f88-ba97-d7212ff0dc4c",
+                "id": "9831cabb-1019-4d4b-a63e-4d9ac8fffe0b",
+                "dt": "2024-08-22T04:04:30Z",
+                "domain": "www.wikidata.org",
+                "stream": "mediawiki.recentchange",
+                "topic": "eqiad.mediawiki.recentchange",
+                "partition": 0,
+                "offset": 5356063044
+            },
+            "id": 2299808786,
+            "type": "edit",
+            "namespace": 0,
+            "title": "Q59548794",
+            "title_url": "https://www.wikidata.org/wiki/Q59548794",
+            "comment": "/* wbeditentity-update-languages-short:0||es */ BOT - Adding descriptions (1 languages): es",
+            "timestamp": 1724299470,
+            "user": "Emijrpbot",
+            "bot": true,
+            "notify_url": "https://www.wikidata.org/w/index.php?diff=2233508395&oldid=2225886095&rcid=2299808786",
+            "minor": false,
+            "patrolled": true,
+            "length": {
+                "old": 40817,
+                "new": 40915
+            },
+            "revision": {
+                "old": 2225886095,
+                "new": 2233508395
+            },
+            "server_url": "https://www.wikidata.org",
+            "server_name": "www.wikidata.org",
+            "server_script_path": "/w",
+            "wiki": "wikidatawiki",
+            "parsedcomment": "‎<span dir=\"auto\"><span class=\"autocomment\">Changed label, description and/or aliases in es: </span></span> BOT - Adding descriptions (1 languages): es"
+        },
+        {
+            "$schema": "/mediawiki/recentchange/1.0.0",
+            "meta": {
+                "uri": "https://es.wiktionary.org/wiki/Categor%C3%ADa:ES:T%C3%A9rminos_anticuados",
+                "request_id": "fdac6416-0b2f-45af-a166-edcc2e2eefa4",
+                "id": "6dfebd6c-f7b6-4062-aa74-3308063d4d3f",
+                "dt": "2024-08-22T04:04:29Z",
+                "domain": "es.wiktionary.org",
+                "stream": "mediawiki.recentchange",
+                "topic": "eqiad.mediawiki.recentchange",
+                "partition": 0,
+                "offset": 5356063045
+            },
+            "id": 6872919,
+            "type": "categorize",
+            "namespace": 14,
+            "title": "Categoría:ES:Términos anticuados",
+            "title_url": "https://es.wiktionary.org/wiki/Categor%C3%ADa:ES:T%C3%A9rminos_anticuados",
+            "comment": "[[:marujeáremos]] añadida a la categoría",
+            "timestamp": 1724299469,
+            "user": "TMCbot",
+            "bot": true,
+            "notify_url": "https://es.wiktionary.org/w/index.php?diff=5539652&oldid=3931296&rcid=6872919",
+            "server_url": "https://es.wiktionary.org",
+            "server_name": "es.wiktionary.org",
+            "server_script_path": "/w",
+            "wiki": "eswiktionary",
+            "parsedcomment": "<a href=\"/wiki/maruje%C3%A1remos\" title=\"marujeáremos\">marujeáremos</a> añadida a la categoría"
+        },
+        {
+            "$schema": "/mediawiki/recentchange/1.0.0",
+            "meta": {
+                "uri": "https://www.wikidata.org/wiki/Q4737270",
+                "request_id": "1039b2ba-455b-40ae-97fa-c01c3d711630",
+                "id": "2f036656-16da-4b3e-88f1-26ba56cd5f9b",
+                "dt": "2024-08-22T04:04:30Z",
+                "domain": "www.wikidata.org",
+                "stream": "mediawiki.recentchange",
+                "topic": "eqiad.mediawiki.recentchange",
+                "partition": 0,
+                "offset": 5356063046
+            },
+            "id": 2299808785,
+            "type": "edit",
+            "namespace": 0,
+            "title": "Q4737270",
+            "title_url": "https://www.wikidata.org/wiki/Q4737270",
+            "comment": "/* wbsetqualifier-add:1| */ [[Property:P3831]]: [[Q129425539]], [[:toollabs:quickstatements/#/batch/236579|batch #236579]]",
+            "timestamp": 1724299470,
+            "user": "Shyamal",
+            "bot": false,
+            "notify_url": "https://www.wikidata.org/w/index.php?diff=2233508391&oldid=2233508381&rcid=2299808785",
+            "minor": false,
+            "patrolled": true,
+            "length": {
+                "old": 19200,
+                "new": 19574
+            },
+            "revision": {
+                "old": 2233508381,
+                "new": 2233508391
+            },
+            "server_url": "https://www.wikidata.org",
+            "server_name": "www.wikidata.org",
+            "server_script_path": "/w",
+            "wiki": "wikidatawiki",
+            "parsedcomment": "‎<span dir=\"auto\"><span class=\"autocomment\">Added qualifier: </span></span> <a href=\"/wiki/Property:P3831\" title=\"‎object of statement has role‎ | ‎(qualifier) role or generic identity of the predicate value/argument of a statement (&quot;object&quot;) in the context of that statement; for the role of the item the statement is on (&quot;subject&quot;), use P2868‎\"><span class=\"wb-itemlink\"><span class=\"wb-itemlink-label\" lang=\"en\" dir=\"ltr\">object of statement has role</span> <span class=\"wb-itemlink-id\">(P3831)</span></span></a>: <a href=\"/wiki/Q129425539\" title=\"‎larval host plant‎ | ‎a plant serving as hosts for the larval stages of animals (usually of insects)‎\"><span class=\"wb-itemlink\"><span class=\"wb-itemlink-label\" lang=\"en\" dir=\"ltr\">larval host plant</span> <span class=\"wb-itemlink-id\">(Q129425539)</span></span></a>, <a href=\"https://iw.toolforge.org/quickstatements/#.2Fbatch.2F236579\" class=\"extiw\" title=\"toollabs:quickstatements/\">batch #236579</a>"
+        },
+        {
+            "$schema": "/mediawiki/recentchange/1.0.0",
+            "meta": {
+                "uri": "https://uz.wikipedia.org/wiki/Turkum:Webarxiv_andozasi_wayback_havolalari",
+                "request_id": "e7511af8-0632-45b9-95b6-1341fba36f31",
+                "id": "feee8bee-7073-4ae6-b2a5-fb416c1011fc",
+                "dt": "2024-08-22T04:04:29Z",
+                "domain": "uz.wikipedia.org",
+                "stream": "mediawiki.recentchange",
+                "topic": "eqiad.mediawiki.recentchange",
+                "partition": 0,
+                "offset": 5356063047
+            },
+            "id": 15706153,
+            "type": "categorize",
+            "namespace": 14,
+            "title": "Turkum:Webarxiv andozasi wayback havolalari",
+            "title_url": "https://uz.wikipedia.org/wiki/Turkum:Webarxiv_andozasi_wayback_havolalari",
+            "comment": "[[:NASAMS]] turkumga qoʻshildi",
+            "timestamp": 1724299469,
+            "user": "InternetArchiveBot",
+            "bot": true,
+            "notify_url": "https://uz.wikipedia.org/w/index.php?diff=4734593&oldid=4489820",
+            "server_url": "https://uz.wikipedia.org",
+            "server_name": "uz.wikipedia.org",
+            "server_script_path": "/w",
+            "wiki": "uzwiki",
+            "parsedcomment": "<a href=\"/wiki/NASAMS\" title=\"NASAMS\">NASAMS</a> turkumga qoʻshildi"
+        },
+        {
+            "$schema": "/mediawiki/recentchange/1.0.0",
+            "meta": {
+                "uri": "https://www.wikidata.org/wiki/Q129548637",
+                "request_id": "13a46bc2-e32d-4ed3-a55d-32d4339274ff",
+                "id": "8376f57c-4635-4c31-889f-658fb8ba80ab",
+                "dt": "2024-08-22T04:04:29Z",
+                "domain": "www.wikidata.org",
+                "stream": "mediawiki.recentchange",
+                "topic": "eqiad.mediawiki.recentchange",
+                "partition": 0,
+                "offset": 5356063048
+            },
+            "id": 2299808787,
+            "type": "new",
+            "namespace": 0,
+            "title": "Q129548637",
+            "title_url": "https://www.wikidata.org/wiki/Q129548637",
+            "comment": "/* wbeditentity-create-item:0| */ add scholarly article from crossref ([[:toollabs:editgroups/b/OR/93e79d346c8|details]])",
+            "timestamp": 1724299469,
+            "user": "DaxServer",
+            "bot": false,
+            "notify_url": "https://www.wikidata.org/w/index.php?oldid=2233508377&rcid=2299808787",
+            "minor": false,
+            "patrolled": true,
+            "length": {
+                "new": 13758
+            },
+            "revision": {
+                "new": 2233508377
+            },
+            "server_url": "https://www.wikidata.org",
+            "server_name": "www.wikidata.org",
+            "server_script_path": "/w",
+            "wiki": "wikidatawiki",
+            "parsedcomment": "‎<span dir=\"auto\"><span class=\"autocomment\">Created a new Item: </span></span> add scholarly article from crossref (<a href=\"https://iw.toolforge.org/editgroups/b/OR/93e79d346c8\" class=\"extiw\" title=\"toollabs:editgroups/b/OR/93e79d346c8\">details</a>)"
+        },
+        {
+            "$schema": "/mediawiki/recentchange/1.0.0",
+            "meta": {
+                "uri": "https://www.wikidata.org/wiki/Q58389346",
+                "request_id": "526a93eb-7f5f-4b56-bbcf-17d8ca1bbcc7",
+                "id": "c51eb46b-8672-46bb-9ced-bbc2f0d8a836",
+                "dt": "2024-08-22T04:04:30Z",
+                "domain": "www.wikidata.org",
+                "stream": "mediawiki.recentchange",
+                "topic": "eqiad.mediawiki.recentchange",
+                "partition": 0,
+                "offset": 5356063049
+            },
+            "id": 2299808789,
+            "type": "edit",
+            "namespace": 0,
+            "title": "Q58389346",
+            "title_url": "https://www.wikidata.org/wiki/Q58389346",
+            "comment": "/* wbeditentity-update-languages-short:0||es */ BOT - Adding descriptions (1 languages): es",
+            "timestamp": 1724299470,
+            "user": "Emijrpbot",
+            "bot": true,
+            "notify_url": "https://www.wikidata.org/w/index.php?diff=2233508396&oldid=1745684941&rcid=2299808789",
+            "minor": false,
+            "patrolled": true,
+            "length": {
+                "old": 38875,
+                "new": 38973
+            },
+            "revision": {
+                "old": 1745684941,
+                "new": 2233508396
+            },
+            "server_url": "https://www.wikidata.org",
+            "server_name": "www.wikidata.org",
+            "server_script_path": "/w",
+            "wiki": "wikidatawiki",
+            "parsedcomment": "‎<span dir=\"auto\"><span class=\"autocomment\">Changed label, description and/or aliases in es: </span></span> BOT - Adding descriptions (1 languages): es"
+        }
+    ]
+}

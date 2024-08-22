@@ -1,0 +1,1 @@
+curl -s -H 'Accept: application/json' https://stream.wikimedia.org/v2/stream/recentchange
